@@ -1,4 +1,4 @@
-# Aprendizados do Curso [Cypress: automatizando testes E2E]
+# Aprendizados do Curso [Cypress: automatizando testes E2E] 📚 *Alura*
 
 <h2 id="Pré-requisitos">🚀 Pré-requisitos</h2>
 
